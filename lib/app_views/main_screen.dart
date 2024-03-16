@@ -2,9 +2,9 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:mosque_raw/app_views/home.dart';
-import 'package:mosque_raw/app_views/splash_screen.dart';
-import 'package:mosque_raw/utils/app_urls.dart';
+import 'package:klein/app_views/home.dart';
+import 'package:klein/app_views/splash_screen.dart';
+import 'package:klein/utils/app_urls.dart';
 import 'package:persistent_bottom_nav_bar_v2/persistent-tab-view.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:webview_flutter/webview_flutter.dart';

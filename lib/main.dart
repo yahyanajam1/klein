@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mosque_raw/app_views/main_screen.dart';
+import 'package:klein/app_views/main_screen.dart';
 
 void main() {
   runApp(const MyApp());

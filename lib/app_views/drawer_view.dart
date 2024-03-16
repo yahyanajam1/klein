@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mosque_raw/app_data/web_view.dart';
+import 'package:klein/app_data/web_view.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 import '../utils/colors.dart';

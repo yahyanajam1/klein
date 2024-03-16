@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:mosque_raw/app_views/home.dart';
-import 'package:mosque_raw/utils/app_urls.dart';
+import 'package:klein/app_views/home.dart';
+import 'package:klein/utils/app_urls.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../app_views/drawer_view.dart';

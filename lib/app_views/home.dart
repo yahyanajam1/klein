@@ -2,9 +2,9 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:mosque_raw/app_data/web_view.dart';
-import 'package:mosque_raw/utils/app_urls.dart';
-import 'package:mosque_raw/widgets/side_menu.dart';
+import 'package:klein/app_data/web_view.dart';
+import 'package:klein/utils/app_urls.dart';
+import 'package:klein/widgets/side_menu.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 import '../utils/colors.dart';
